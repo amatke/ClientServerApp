@@ -1,4 +1,6 @@
-Calling the Application
+# Client - Server application using socket
+
+### Calling the Application
 
 Command example for launching the server application with 3 different parameters:
 java –jar server_2.jar portNumber pathToDataBase pathToOutputDir
